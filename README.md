@@ -1,4 +1,4 @@
-# DoryGame
+# Dory Game
 
 Este es un proyecto en java en el cual se puede evidenciar el uso de hilos para manejar imagenes en una interfaz visual, así como 
 el manejo de escritura/lectura de archivos planos y serializables para guardar y cargar objetos o texto. Este proyecto también integra
